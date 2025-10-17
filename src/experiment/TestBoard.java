@@ -34,7 +34,7 @@ public class TestBoard {
             }
         }
     }
-
+// Minor update for clarity
     public TestBoardCell getCell(int row, int col) {
         return grid[row][col];
     }

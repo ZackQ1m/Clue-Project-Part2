@@ -9,6 +9,7 @@ public class TestBoardCell {
     private Set<TestBoardCell> adjList;
     private boolean isRoom;
     private boolean isOccupied;
+ // Minor update for clarity
 
     public TestBoardCell(int row, int col) {
         this.row = row;
